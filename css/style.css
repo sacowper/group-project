@@ -100,3 +100,39 @@
     }
 }@charset "utf-8";
 /* CSS Document */
+
+.benefits{
+	margin: auto;
+	color: white;
+	width: 50%;
+	border: 1px solid white;
+}
+
+.gear-section{
+	color:white;
+}
+
+.gearpic{
+	height: 220px
+}
+
+.about-ready-steady-cycle{
+color: white
+}
+
+.geartext{
+	padding:20px;
+	text-align:center;
+	font-size: 15px;
+}
+
+.geartitletext{
+	text-align: center;
+}
+.tipstitletext{
+	text-align: center;
+}
+
+.aboutsectionmargin{
+	margin-bottom: auto;
+}
